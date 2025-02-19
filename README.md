@@ -33,10 +33,10 @@ This is my personal portfolio website, designed and developed to showcase my ski
 *   **Database:**
     *   [MongoDB](https://www.mongodb.com/):  A NoSQL database.  (Specify if you are using MongoDB Atlas or a local instance).
 *   **Deployment:**
-    *   [Netlify/Vercel/Heroku/AWS (Specify where you deployed)] (Link to their website):  For hosting the frontend.
-    *   [Heroku/AWS/Digital Ocean/Other (Specify where you deployed)] (Link to their website):  For hosting the backend.
+    *   [Netlify] (Link to their website):  For hosting the frontend.
+    *   [Heroku] (Link to their website):  For hosting the backend.
 *   **Other Libraries/Tools:**
-    *   [List any other significant libraries or tools you used, e.g.,  `react-router-dom`, `formik`, `yup`,  icons libraries, etc.]
+    *   `react-router-dom`, `formik`, `yup`,  icons libraries, etc.
 
 ## Installation and Setup
 
